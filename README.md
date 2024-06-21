@@ -11,9 +11,3 @@ A Clustor->TCP_Clients(Databse)->Test_Collect(Collection)
     Nickname: "nick"
   }
 
- 
-  {
-    Username: "user",
-    Passowrd: "pass",
-    Nickname: "nick"
-  }
