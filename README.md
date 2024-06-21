@@ -5,9 +5,10 @@ Sign Up features is also there to add new users and when one user left the chat,
 
 A Clustor->TCP_Clients(Databse)->Test_Collect(Collection)
 
+'''
   {
     Username: "user",
     Passowrd: "pass",
     Nickname: "nick"
   }
-
+'''
